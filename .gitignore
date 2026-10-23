@@ -15,6 +15,17 @@ desktop.ini
 *.lnk
 
 # ---------------------------------------------------------------
+# Projects kept locally but not published
+# ---------------------------------------------------------------
+# Retired Global E-Commerce / Jaldimai Foods project (formerly PROJECT_2).
+# Files remain on disk; they are simply not part of the published portfolio.
+PROJECT_2_ARCHIVED/
+
+# Olist analysis, unpublished. Includes the 58 MB geolocation CSV and the
+# ~107 MB Olist_Ecommerce_Analysis.xlsx (above GitHub's 100 MB file limit).
+Olist E-Commerce Project/
+
+# ---------------------------------------------------------------
 # Oversized workbook
 # ---------------------------------------------------------------
 # Olist_Ecommerce_Analysis.xlsx is ~107 MB, which is above GitHub's
