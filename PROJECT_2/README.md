@@ -8,6 +8,10 @@ Two thousand e-commerce orders turned into an interactive dashboard, with every 
 | **Source** | [Kaggle — Global E-Commerce Sales & Customer Data](https://www.kaggle.com/datasets/muhammadaammartufail/global-e-commerce-sales-and-customer-data) |
 | **Tools** | Excel Tables, validation formulas, PivotTables, slicers, KPI cards |
 
+![Jaldimai Foods Sales Dashboard](dashboard.png)
+
+> The screenshot above is the Jaldimai Foods dashboard in this folder. The Global E-Commerce dashboard is described in the workbook structure and findings below.
+
 ---
 
 ## Headline figures
@@ -31,6 +35,7 @@ Two thousand e-commerce orders turned into an interactive dashboard, with every 
 | `global_Dashboard_Analysis.csv` | Exported analysis output |
 | `Global_Ecommerce_Sales_Dashboard_Project_Notes.docx` | Full written report: method, formulas and findings |
 | `Jaldimai_Foods_Sales_Manager.xlsx` | Separate workbook — sales management system (see below) |
+| `dashboard.png` | Screenshot of the Jaldimai Foods dashboard |
 
 ---
 

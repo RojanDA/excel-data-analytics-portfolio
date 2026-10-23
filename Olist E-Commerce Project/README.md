@@ -11,6 +11,8 @@ A descriptive analysis of the Olist Brazilian E-Commerce Public Dataset, built i
 
 > This is a historical analysis of recorded transactions. It does not describe present-day market conditions.
 
+![Olist Executive Dashboard](dashboard.png)
+
 ---
 
 ## Verified measures
@@ -35,6 +37,7 @@ Amounts are shown in the value units recorded in the source fields. The report d
 | `project details/Olist_Ecommerce_Project_Presentation_Final.pptx` | 13-slide presentation of the project |
 | `olist_*.csv` | The nine source datasets |
 | `product_category_name_translation.csv` | Portuguese → English category lookup (71 rows) |
+| `dashboard.png` | Screenshot of the executive dashboard |
 
 ### Source datasets
 

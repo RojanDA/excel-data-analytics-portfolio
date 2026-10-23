@@ -19,6 +19,26 @@ Each project starts from raw data, documents its quality checks, and ends in a d
 
 ---
 
+## Dashboard previews
+
+### Sales Performance Dashboard — `PROJECT_1/`
+
+![Sales Performance Dashboard 2018-2021](PROJECT_1/dashboard.png)
+
+### AdventureWorks Time Series Dashboard — `PROJECT_3/`
+
+![AdventureWorks Time Series Dashboard](PROJECT_3/dashboard.png)
+
+### Olist Executive Dashboard — `Olist E-Commerce Project/`
+
+![Olist Executive Dashboard](Olist%20E-Commerce%20Project/dashboard.png)
+
+### Jaldimai Foods Sales Dashboard — `PROJECT_2/`
+
+![Jaldimai Foods Sales Dashboard](PROJECT_2/dashboard.png)
+
+---
+
 ## What each project demonstrates
 
 ### 1. Sales Performance Dashboard (`PROJECT_1/`)
@@ -100,21 +120,25 @@ Includes a written documentation report and a 13-slide presentation. The analysi
 ├── notes.txt                  <- data-profiling notes for the Olist datasets
 ├── PROJECT_1/                 <- Sales Performance Dashboard 2018–2021
 │   ├── README.md
+│   ├── dashboard.png
 │   ├── Sales_Dashboard_Project.xlsx
 │   └── Sales_Data_2018_2021.xlsx
 ├── PROJECT_2/                 <- Global E-Commerce Dashboard + Jaldimai Foods
 │   ├── README.md
+│   ├── dashboard.png
 │   ├── Jaldimai_Foods_Sales_Manager.xlsx
 │   ├── global_ecommerce_sales.csv
 │   ├── global_Dashboard_Analysis.csv
 │   └── Global_Ecommerce_Sales_Dashboard_Project_Notes.docx
 ├── PROJECT_3/                 <- AdventureWorks Time Series Dashboard
 │   ├── README.md
+│   ├── dashboard.png
 │   ├── EXCEL WORK/Dashboard.xlsm
 │   ├── Databases/AdventureWorks.xlsx
 │   └── Images/
 └── Olist E-Commerce Project/   <- Brazilian marketplace analysis
     ├── README.md
+    ├── dashboard.png
     ├── project details/
     └── olist_*.csv
 ```

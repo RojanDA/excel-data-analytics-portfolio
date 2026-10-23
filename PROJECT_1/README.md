@@ -8,6 +8,8 @@ An Excel dashboard built to answer three questions about four years of US retail
 | **Type** | Sample / synthetic dataset, used for illustrative analysis |
 | **Tools** | Excel Tables, PivotTables, PivotCharts, slicers, calculated fields |
 
+![Sales Performance Dashboard 2018-2021](dashboard.png)
+
 ---
 
 ## Headline figures
@@ -27,6 +29,7 @@ An Excel dashboard built to answer three questions about four years of US retail
 |------|---------|
 | `Sales_Dashboard_Project.xlsx` | The finished analysis: data, pivots, dashboard and written findings |
 | `Sales_Data_2018_2021.xlsx` | Raw source extract (8,888 rows × 20 fields) |
+| `dashboard.png` | Screenshot of the finished dashboard |
 
 ### Workbook structure
 

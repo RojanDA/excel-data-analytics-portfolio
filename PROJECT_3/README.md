@@ -7,6 +7,8 @@ A macro-enabled Excel workbook that puts a star-schema Data Model behind a singl
 | **Data** | AdventureWorks sample database — 60,399 internet sales rows |
 | **Tools** | Excel Data Model (Power Pivot), measures, time intelligence (YoY), slicers, macros (`.xlsm`) |
 
+![AdventureWorks Time Series Dashboard](dashboard.png)
+
 ---
 
 ## Files
@@ -16,6 +18,7 @@ A macro-enabled Excel workbook that puts a star-schema Data Model behind a singl
 | `EXCEL WORK/Dashboard.xlsm` | The finished dashboard — macro-enabled |
 | `Databases/AdventureWorks.xlsx` | Flattened source tables (fact + dimensions) |
 | `Images/` | Icons and graphics used on the dashboard |
+| `dashboard.png` | Screenshot of the finished dashboard |
 
 ---
 
