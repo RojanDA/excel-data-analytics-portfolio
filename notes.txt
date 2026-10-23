@@ -1,0 +1,5 @@
+Orders file rows
+order_approved_at has under 1% empty, order_delivered_carrier_date has 2% empty, and order_delivered_customer_date has 3% empty
+
+In Order_items file — empty values / errors
+Column B: 0% empty; 0% errors (profiled entire dataset)

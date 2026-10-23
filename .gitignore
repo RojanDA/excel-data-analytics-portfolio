@@ -1,0 +1,25 @@
+# ---------------------------------------------------------------
+# Excel / Office temporary and lock files
+# ---------------------------------------------------------------
+~$*
+*.tmp
+*.temp
+*.bak
+
+# ---------------------------------------------------------------
+# OS clutter
+# ---------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+
+# ---------------------------------------------------------------
+# Oversized workbook
+# ---------------------------------------------------------------
+# Olist_Ecommerce_Analysis.xlsx is ~107 MB, which is above GitHub's
+# hard 100 MB per-file limit. It is excluded from version control.
+# It is fully reproducible from the CSVs in the same folder using the
+# Power Query steps documented in
+#   "Olist E-Commerce Project/README.md"
+Olist E-Commerce Project/Olist_Ecommerce_Analysis.xlsx
